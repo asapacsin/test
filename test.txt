@@ -1,1 +1,2 @@
-sun is great
+sun is not great
+night is great
